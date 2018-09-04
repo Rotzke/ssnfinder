@@ -1,0 +1,20 @@
+#,Ext,Path,Host,IP,Date,Total,Threshold,Maxsize,Search_For,Search_Path
+1,.txt,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Fake SSNs/fake_ssn.txt,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+27,.txt,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Samples/SSN.txt,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+27,.txt,/home/osboxes/Sample_data/Identity_Finder_Test_Data/SSN.txt,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+1,.txt,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Samples/CCN.txt,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+26,.docx,/home/osboxes/Sample_data/Identity_Finder_Test_Data/2009 class.docx,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+30,.xls,/home/osboxes/Sample_data/sample-data.xls,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+49,.docx,/home/osboxes/Sample_data/10-MB-Test.docx,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+32,.pdf,/home/osboxes/Sample_data/sample-data.pdf,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+1468,.xlsx,/home/osboxes/Sample_data/10-MB-Test.xlsx,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+1,.csv,/home/osboxes/Sample_data/Identity_Finder_Test_Data/CCN.csv,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+26,.xls,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Hidden Column.xls,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+28,.csv,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Department.csv,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+8,.pdf,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Tax Return 2008.pdf,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+3,.pptx,/home/osboxes/Sample_data/Identity_Finder_Test_Data/Contacts.pptx,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+27,.csv,/home/osboxes/Sample_data/Identity_Finder_Test_Data/SSN.csv,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+1,.txt,/home/osboxes/Sample_data/Identity_Finder_Test_Data/CCN.txt,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+2,.zip,/home/osboxes/Sample_data/Identity_Finder_Test_Data/request.zip,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+1,.txt,/home/osboxes/Sample_data/Identity_Finder_Test_Data/fake_ssn.txt,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
+25,.xlsx,/home/osboxes/Sample_data/Identity_Finder_Test_Data/loans.xlsx,starfishdemo,192.168.202.190,Fri_Aug_31_2018_02_57_32_AM,1783,1,100000000,SSNs + CCNs,/home/osboxes/Sample_data/
